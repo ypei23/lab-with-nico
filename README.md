@@ -1,5 +1,5 @@
 # Pytest Lab
-[![](https://github.com/jbecker7/pytestlab-jonathan/workflows/tests/badge.svg)](https://github.com/jbecker7/pytestlab-jonathan/actions?query=workflow%3Atests)
+[![](https://github.com/jbecker7/lab-with-nico/workflows/tests/badge.svg)](https://github.com/jbecker7/lab-with-nico/actions?query=workflow%3Atests)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 You will also walk through how to use the pytest framework for running test cases.
